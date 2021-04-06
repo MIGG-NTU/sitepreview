@@ -24,3 +24,7 @@ The [workflow](.github/workflows/cleanup.yaml) runs daily to:
 1. Delete the documentation if the corresponding branch was already deleted
 2. Generate an index file, which lists all documentations of current open PRs
 3. Squash all commits into one commit to avoid increasing repository size
+
+## Acknowledgemnt
+
+The repository is modified from https://github.com/seismo-learn/sitepreview.
