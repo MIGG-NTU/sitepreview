@@ -1,5 +1,5 @@
-Network Configuration
-=====================
+Network
+=======
 
 :contributors: |Yao Jiayuan|
 :last updating date: 2021-05-22
@@ -73,6 +73,8 @@ We need to upgrade your MacBook macOS to the latest version and upload
 the NTU wireless profile in order to use the wireless network.
 The steps to upload the NTU wireless profile can be found
 `here <https://www.ntu.edu.sg/cits/NTUwireless/Pages/Mac_OS_NTUSECURE.aspx>`__.
+
+.. _intranet-wired-connection:
 
 Access intranet via wired connection
 ------------------------------------
