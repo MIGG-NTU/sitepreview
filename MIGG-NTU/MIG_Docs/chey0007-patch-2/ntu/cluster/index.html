@@ -104,6 +104,7 @@
 <li class="toctree-l4"><a class="reference internal" href="#using-gpu">Using GPU</a></li>
 <li class="toctree-l4"><a class="reference internal" href="#use-python">Use Python</a></li>
 <li class="toctree-l4"><a class="reference internal" href="#using-scratch-space">Using Scratch Space</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#notes">Notes</a></li>
 <li class="toctree-l4"><a class="reference internal" href="#quota">Quota</a></li>
 </ul>
 </li>
@@ -268,7 +269,8 @@ It can be used for running collaboration jobs with EOS</p></li>
 <div class="section" id="general-guide">
 <h3>General guide<a class="headerlink" href="#general-guide" title="Permalink to this headline">¶</a></h3>
 <ul class="simple">
-<li><p><a class="reference external" href="https://entuedu.sharepoint.com/teams/ntuhpcusersgroup2">NTU-HPC</a>: you can find a lot of manuals here</p></li>
+<li><p><a class="reference external" href="https://entuedu.sharepoint.com/teams/ntuhpcusersgroup2">NTU-HPC</a>: you can find a lot of manuals here.
+Please read <code class="file docutils literal notranslate"><span class="pre">Quick</span> <span class="pre">User</span> <span class="pre">Guide</span> <span class="pre">for</span> <span class="pre">Gekko</span></code> to learn some basic usage of GEKKO.</p></li>
 <li><p><a class="reference external" href="https://www.yammer.com/e.ntu.edu.sg/#/threads/inGroup?type=in_group&amp;feedId=15849979904&amp;view=all">NTU-HPC Yammer Users’ Group Site</a>:
 you can also download from the App Store/Google Play/Microsoft Office Site.
 Do log in with your NTU-ID. The Yammer Group is called “NTU HPC Users’ Group”</p></li>
@@ -351,9 +353,28 @@ You can copy the specific folder (not your entire home directory please) that yo
 <p>Do note that the scratch directory is not a home directory to store data permanently. It is a super-fast read/write space</p>
 <p>If you are not sure how to use it drop me an private email via yammer.</p>
 </div>
+<div class="section" id="notes">
+<h3>Notes<a class="headerlink" href="#notes" title="Permalink to this headline">¶</a></h3>
+<p><code class="docutils literal notranslate"><span class="pre">Module</span></code>:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span># check all options of module
+$ module
+</pre></div>
+</div>
+<p>We could set up some packages in the setting file, e.g., <code class="file docutils literal notranslate"><span class="pre">~/.bashrc</span></code>:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="c1"># Load intel</span>
+<span class="n">module</span> <span class="n">load</span> <span class="n">intel</span><span class="o">/</span><span class="mi">2018</span><span class="n">u3</span>
+
+<span class="c1"># Load MATLAB</span>
+<span class="n">module</span> <span class="n">load</span> <span class="n">matlab</span><span class="o">/</span><span class="n">R2019b</span>
+
+<span class="c1"># Load CUDA</span>
+<span class="n">module</span> <span class="n">load</span> <span class="n">cuda</span><span class="o">/</span><span class="mf">10.1</span>
+</pre></div>
+</div>
+</div>
 <div class="section" id="quota">
 <h3>Quota<a class="headerlink" href="#quota" title="Permalink to this headline">¶</a></h3>
-<p>Each node has a memory of 384 GB. Default disk quota is 500GB for an EOS user.
+<p>Each node has a memory of 384 GB. Default disk quota is 500 GB for an EOS user.
 If you need more (e.g., 10 TB), please drop a mail to Edwin Tan Seng Tat (<a class="reference external" href="mailto:EdwinTan&#37;&#52;&#48;ntu&#46;edu&#46;sg">EdwinTan<span>&#64;</span>ntu<span>&#46;</span>edu<span>&#46;</span>sg</a>).
 Default disk quota is 200 GB for other user, and please see the <a class="reference external" href="https://ts.ntu.edu.sg/sites/hpc/_layouts/15/start.aspx#/Charges">website</a> for additional space.</p>
 <p>Software and Hardware Inventories:
@@ -380,7 +401,7 @@ Default disk quota is 200 GB for other user, and please see the <a class="refere
     <p>
         &#169; Copyright 2020–2021, MIGG-NTU.
       <span class="lastupdated">
-        Last updated on 2021-07-02.
+        Last updated on 2021-07-09.
       </span>
 
     </p>
