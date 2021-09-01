@@ -91,18 +91,19 @@
               
             
             
-              <p class="caption"><span class="caption-text">Getting Started</span></p>
+              <p class="caption" role="heading"><span class="caption-text">Getting Started</span></p>
 <ul>
 <li class="toctree-l1"><a class="reference internal" href="../../introduction/">Introduction</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../ntu/">Resources at NTU</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../singapore/">Living in Singapore</a></li>
 </ul>
-<p class="caption"><span class="caption-text">Research</span></p>
+<p class="caption" role="heading"><span class="caption-text">Research</span></p>
 <ul class="current">
 <li class="toctree-l1 current"><a class="reference internal" href="../">Group Meeting</a><ul class="current">
 <li class="toctree-l2"><a class="reference internal" href="../paper-reading/">Paper Reading</a></li>
 <li class="toctree-l2 current"><a class="current reference internal" href="#">Invited Talks</a><ul>
 <li class="toctree-l3"><a class="reference internal" href="#id1">2021</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="#adjoint-inversion-of-passive-seismic-datasets-for-sedimentary-velocity-structures">Adjoint inversion of passive seismic datasets for sedimentary velocity structures</a></li>
 <li class="toctree-l4"><a class="reference internal" href="#seismic-observayion-and-imaging-using-dense-seismic-arrays-with-nodes-and-distributed-acoustic-sensing-das">Seismic Observayion and Imaging Using Dense Seismic Arrays with Nodes and Distributed Acoustic Sensing (DAS)</a></li>
 <li class="toctree-l4"><a class="reference internal" href="#crustal-and-upper-mantle-structure-beneath-central-myanmar-inferred-from-receiver-functions">Crustal and Upper Mantle Structure Beneath Central Myanmar Inferred from Receiver Functions</a></li>
 </ul>
@@ -134,7 +135,7 @@
 <li class="toctree-l1"><a class="reference internal" href="../../geosciences/">Learning Geosciences</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../data-archive/">Data at MIG</a></li>
 </ul>
-<p class="caption"><span class="caption-text">Appendix</span></p>
+<p class="caption" role="heading"><span class="caption-text">Appendix</span></p>
 <ul>
 <li class="toctree-l1"><a class="reference internal" href="../../links/">Links</a></li>
 </ul>
@@ -229,6 +230,16 @@
 <p>Some invited talks in MIGG, with some PPTs in MIGG Google Drive (<code class="docutils literal notranslate"><span class="pre">groupmeeting.NTU/talks.MIGG</span></code>).</p>
 <div class="section" id="id1">
 <h2>2021<a class="headerlink" href="#id1" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="adjoint-inversion-of-passive-seismic-datasets-for-sedimentary-velocity-structures">
+<h3>Adjoint inversion of passive seismic datasets for sedimentary velocity structures<a class="headerlink" href="#adjoint-inversion-of-passive-seismic-datasets-for-sedimentary-velocity-structures" title="Permalink to this headline">¶</a></h3>
+<ul>
+<li><p>2021/08/05 by Guoliang Li</p></li>
+<li><p>Abstract</p>
+<p>Accurate seismic images of crust are essential for assessing seismic hazards and elucidating tectonic processes that shape surface landforms. Although California and Nevada have been studied extensively using various seismic datasets and tomographic methods, the region lacks a seismic model that can accurately define both shallow (&lt;6 km) sedimentary basins and the deeper crust. In recent decades, Rayleigh wave ellipticity has been successfully extracted from both earthquake events and noise cross-correlation functions and used by many studies to constrain sedimentary velocity structures. In my study, I try to employ the adjoint tomography method (or finite frequency method) to invert the Rayleigh wave travel time and ellipticity information for both sedimentary and crystalline crustal structures.</p>
+<p>To achieve that goal, I first build an initial 3D shear wave speed model for the adjoint tomography by jointly inverting Rayleigh wave ellipticity, phase velocity, and teleseismic P waveforms based on the traditional Ray-theory. And then, I developed a code package that enables the SPECFEM3D_Cartesian package to mesh the 3D geometry of the curved earth surface in order to fast and accurately simulate waveforms in an area of 1200 km × 1200 km. After that, I devised the misfit function for Rayleigh wave ellipticity and calculated the corresponding adjoint sources and Frechét kernels. In the final step, I will do synthetic tests to verify the contribution of Rayleigh wave ellipticity kernels in resolving sedimentary structures.</p>
+</li>
+</ul>
+</div>
 <div class="section" id="seismic-observayion-and-imaging-using-dense-seismic-arrays-with-nodes-and-distributed-acoustic-sensing-das">
 <h3>Seismic Observayion and Imaging Using Dense Seismic Arrays with Nodes and Distributed Acoustic Sensing (DAS)<a class="headerlink" href="#seismic-observayion-and-imaging-using-dense-seismic-arrays-with-nodes-and-distributed-acoustic-sensing-das" title="Permalink to this headline">¶</a></h3>
 <ul>
@@ -380,7 +391,7 @@
     <p>
         &#169; Copyright 2020–2021, MIGG-NTU.
       <span class="lastupdated">
-        Last updated on 2021-06-21.
+        Last updated on 2021-09-01.
       </span>
 
     </p>
