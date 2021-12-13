@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yau Wing CHENG | MIGG</title>
+    <title>Yau-Wing Cheng | MIGG</title>
     <link>https://MIGG-NTU.github.io/academic/author/yau-wing-cheng/</link>
       <atom:link href="https://MIGG-NTU.github.io/academic/author/yau-wing-cheng/index.xml" rel="self" type="application/rss+xml" />
-    <description>Yau Wing CHENG</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 MIGG</copyright>
+    <description>Yau-Wing Cheng</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 MIGG</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://MIGG-NTU.github.io/academic/author/yau-wing-cheng/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q90_lanczos_center.jpg</url>
-      <title>Yau Wing CHENG</title>
+      <url>https://MIGG-NTU.github.io/academic/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Yau-Wing Cheng</title>
       <link>https://MIGG-NTU.github.io/academic/author/yau-wing-cheng/</link>
     </image>
+    
+    <item>
+      <title>Crustal Rotation and Fluids: Factors for the 2019 Ridgecrest Earthquake Sequence?</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2021-grl-tong/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2021-grl-tong/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

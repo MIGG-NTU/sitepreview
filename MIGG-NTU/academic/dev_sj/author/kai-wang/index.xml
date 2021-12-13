@@ -5,12 +5,44 @@
     <link>https://MIGG-NTU.github.io/academic/author/kai-wang/</link>
       <atom:link href="https://MIGG-NTU.github.io/academic/author/kai-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Kai Wang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 MIGG</copyright>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 MIGG</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://MIGG-NTU.github.io/academic/author/kai-wang/avatar_hu486cc734ccaac6906a524454e94b286c_1385948_270x270_fill_q90_lanczos_center.jpg</url>
+      <url>https://MIGG-NTU.github.io/academic/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Kai Wang</title>
       <link>https://MIGG-NTU.github.io/academic/author/kai-wang/</link>
     </image>
+    
+    <item>
+      <title>Crustal Rotation and Fluids: Factors for the 2019 Ridgecrest Earthquake Sequence?</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2021-grl-tong/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2021-grl-tong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New insights into the structural heterogeneity and geodynamics of the Indo-Burma subduction zone from ambient noise tomography</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2021-epsl-wu/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2021-epsl-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-frequency seismic wave modelling of the deep Earth based on hybrid methods and spectral-element simulations: a conceptual study</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2019-gji-lin/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2019-gji-lin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Refined crustal and uppermost mantle structure of southern California by ambient noise adjoint tomography</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2018-gji-wang/</link>
+      <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2018-gji-wang/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
