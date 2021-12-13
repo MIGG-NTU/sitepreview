@@ -5,7 +5,7 @@
     <link>https://MIGG-NTU.github.io/academic/publication/</link>
       <atom:link href="https://MIGG-NTU.github.io/academic/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 MIGG</copyright><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 MIGG</copyright><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://MIGG-NTU.github.io/academic/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
@@ -13,10 +13,34 @@
     </image>
     
     <item>
+      <title>Full‐Waveform Inversion of High‐Frequency Teleseismic Body Waves Based on Multiple Plane‐Wave Incidence: Methods and Practical Applications</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2021-bssa-wang/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2021-bssa-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Eikonal equation-based P-wave seismic azimuthal anisotropy tomography of the crustal structure beneath northern California</title>
       <link>https://MIGG-NTU.github.io/academic/publication/2021-gji-liu/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://MIGG-NTU.github.io/academic/publication/2021-gji-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adjoint Tomography of Ambient Noise Data and Teleseismic P Waves: Methodology and Applications to Central California</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2021-jgr-wang/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2021-jgr-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adjoint traveltime tomography unravels a scenario of horizontal mantle flow beneath the North China craton</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2021-scientificreport-dong/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2021-scientificreport-dong/</guid>
       <description></description>
     </item>
     
@@ -45,10 +69,42 @@
     </item>
     
     <item>
+      <title>Electroseismic and seismoelectric responses at irregular interfaces: Possible application to reservoir exploration</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2021-jpse-wang/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2021-jpse-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>New insights into the structural heterogeneity and geodynamics of the Indo-Burma subduction zone from ambient noise tomography</title>
       <link>https://MIGG-NTU.github.io/academic/publication/2021-epsl-wu/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://MIGG-NTU.github.io/academic/publication/2021-epsl-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quasi-waveform seismic tomography of crustal structures in the capital circle region of China</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2021-sciencechinaearthsciences-huang/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2021-sciencechinaearthsciences-huang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seismic pumping for mineralizaiton in southern Fujian, Cathaysia Block: New insights from a teleseismic full waveform inversion</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2021-ogr-zhang/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2021-ogr-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seismic responses to an earthquake source in stratified transversely isotropic porous media</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2021-gp-sun/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2021-gp-sun/</guid>
       <description></description>
     </item>
     
@@ -73,6 +129,30 @@
       <link>https://MIGG-NTU.github.io/academic/publication/2021-jgr-liu/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://MIGG-NTU.github.io/academic/publication/2021-jgr-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eikonal Equation‐Based Seismic Tomography of the Source Areas of the 2008 Mw 7.9 Wenchuan Earthquake and the 2013 Mw 6.6 Lushan Earthquake</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2020-li-bssa/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2020-li-bssa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint inversion of linear array ambient noise surface-wave and teleseismic body-wave data based on an adjoint-state method</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2020-chinesejournalofgeophysics-zhang/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2020-chinesejournalofgeophysics-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The auxiliary function method for waveform based earthquake location</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2020-chen-jcp/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2020-chen-jcp/</guid>
       <description></description>
     </item>
     

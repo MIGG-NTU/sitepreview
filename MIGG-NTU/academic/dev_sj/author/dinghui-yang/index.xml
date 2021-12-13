@@ -5,12 +5,36 @@
     <link>https://MIGG-NTU.github.io/academic/author/dinghui-yang/</link>
       <atom:link href="https://MIGG-NTU.github.io/academic/author/dinghui-yang/index.xml" rel="self" type="application/rss+xml" />
     <description>Dinghui Yang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 MIGG</copyright><lastBuildDate>Wed, 16 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 MIGG</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://MIGG-NTU.github.io/academic/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Dinghui Yang</title>
       <link>https://MIGG-NTU.github.io/academic/author/dinghui-yang/</link>
     </image>
+    
+    <item>
+      <title>Adjoint traveltime tomography unravels a scenario of horizontal mantle flow beneath the North China craton</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2021-scientificreport-dong/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2021-scientificreport-dong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quasi-waveform seismic tomography of crustal structures in the capital circle region of China</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2021-sciencechinaearthsciences-huang/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2021-sciencechinaearthsciences-huang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The auxiliary function method for waveform based earthquake location</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2020-chen-jcp/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2020-chen-jcp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Slab morphology beneath northern Sumatra revealed by regional and teleseismic traveltime tomography</title>

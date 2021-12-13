@@ -5,12 +5,36 @@
     <link>https://MIGG-NTU.github.io/academic/author/yongsheng-liu/</link>
       <atom:link href="https://MIGG-NTU.github.io/academic/author/yongsheng-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>Yongsheng Liu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 MIGG</copyright>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 MIGG</copyright><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://MIGG-NTU.github.io/academic/author/yongsheng-liu/avatar_hu550597d05e07f0955a8f127d89fa8487_72126_270x270_fill_q90_lanczos_center.jpg</url>
+      <url>https://MIGG-NTU.github.io/academic/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Yongsheng Liu</title>
       <link>https://MIGG-NTU.github.io/academic/author/yongsheng-liu/</link>
     </image>
+    
+    <item>
+      <title>Eikonal equation-based P-wave seismic azimuthal anisotropy tomography of the crustal structure beneath northern California</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2021-gji-liu/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2021-gji-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seismic velocity and anisotropy tomography of southern Sumatra</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2021-pepi-liu/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2021-pepi-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eikonal Equation‐Based Seismic Tomography of the Source Areas of the 2008 Mw 7.9 Wenchuan Earthquake and the 2013 Mw 6.6 Lushan Earthquake</title>
+      <link>https://MIGG-NTU.github.io/academic/publication/2020-li-bssa/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://MIGG-NTU.github.io/academic/publication/2020-li-bssa/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
