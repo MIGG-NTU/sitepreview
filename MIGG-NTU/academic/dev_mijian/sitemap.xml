@@ -5,7 +5,7 @@
     <loc>https://MIGG-NTU.github.io/academic/courses/</loc>
     <lastmod>2020-10-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://MIGG-NTU.github.io/academic/softwares/bwttomo/</loc>
+    <loc>https://MIGG-NTU.github.io/academic/programs/bwttomo/</loc>
     <lastmod>2020-10-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://MIGG-NTU.github.io/academic/courses/calculusi/</loc>
@@ -14,7 +14,7 @@
     <loc>https://MIGG-NTU.github.io/academic/project/mathematicalmodellingandinversion/</loc>
     <lastmod>2020-10-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://MIGG-NTU.github.io/academic/softwares/sem-fk/</loc>
+    <loc>https://MIGG-NTU.github.io/academic/programs/sem-fk/</loc>
     <lastmod>2020-10-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://MIGG-NTU.github.io/academic/project/earthquakeseismology/</loc>
@@ -335,16 +335,19 @@
     <loc>https://MIGG-NTU.github.io/academic/project/</loc>
     <lastmod>2020-10-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://MIGG-NTU.github.io/academic/tag/att/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://MIGG-NTU.github.io/academic/tag/earthquake-seismology/</loc>
     <lastmod>2020-10-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://MIGG-NTU.github.io/academic/tag/mathematical-modelling-and-inversion/</loc>
     <lastmod>2020-10-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://MIGG-NTU.github.io/academic/tag/sem-fk/</loc>
+    <loc>https://MIGG-NTU.github.io/academic/programs/</loc>
     <lastmod>2020-10-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://MIGG-NTU.github.io/academic/softwares/</loc>
+    <loc>https://MIGG-NTU.github.io/academic/tag/sem-fk/</loc>
     <lastmod>2020-10-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://MIGG-NTU.github.io/academic/publication/2020-li-bssa/</loc>
@@ -610,6 +613,8 @@
     <loc>https://MIGG-NTU.github.io/academic/author/shijie-hao/</loc>
   </url><url>
     <loc>https://MIGG-NTU.github.io/academic/author/shucheng-wu/</loc>
+  </url><url>
+    <loc>https://MIGG-NTU.github.io/academic/software/</loc>
   </url><url>
     <loc>https://MIGG-NTU.github.io/academic/author/tianjue-li/</loc>
   </url><url>
